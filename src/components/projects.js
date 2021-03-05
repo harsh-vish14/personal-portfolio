@@ -14,7 +14,9 @@ var projectsData = [
         image: 'images/e_commerce.jpeg',
         Title: 'A Full stack E-Commerce Website',
         Content: 'This is a full stack e commerce which is created by react js and firebase is used for data where user and purchase product and can pay to get the product where stripe is used for payment and more information of product the dynamic links is also created there is two ways auth available email and password and google auth',
-        Languages: 'HTML, CSS, SCSS, React js, firebase, google auth, stripe (for payment), Javascript',
+        Languages: 'HTML, CSS, SCSS, React js, firebase, google auth, stripe (for payment), git remote add origin https://github.com/harsh-vish14/personal-portfolio.git
+git branch -M main
+git push -u origin mainJavascript',
         demo: 'https://ecommerce-ba49d.web.app/',
         githublink: 'https://github.com/harsh-vish14/e-commerce-react-appication-with-firebase'
     },
