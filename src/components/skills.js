@@ -5,6 +5,10 @@ var data = [
         text:'React JS'
     },
     {
+        logo: 'icons/typescript.svg',
+        text:'Typescript'
+    },
+    {
         logo: 'icons/html.svg',
         text:'HTML'
     },
@@ -39,10 +43,6 @@ var data = [
     {
         logo: 'icons/dimension.svg',
         text:'Adobe dimensions'
-    },
-    {
-        logo: 'icons/photoshop.svg',
-        text:'adobe photoshop'
     },
     {
         logo: 'icons/adobexd.svg',

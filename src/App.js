@@ -7,11 +7,6 @@ function App() {
       <Router>
         <Header/>
       <Main />
-        {/* <Switch> */}
-          {/* <Link component={Header} /> */}
-          {/* <Link component={Main}/> */}
-
-        {/* </Switch> */}
       </Router>
     </div>
   );
