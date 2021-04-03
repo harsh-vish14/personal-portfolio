@@ -11,7 +11,7 @@ var MoreWay = () => {
                         GITHUB
                     </div>
                 </a>
-                <a href="https://twitter.com/HarshVi72211327" target="_blank" title="twitter">
+                <a href="https://twitter.com/Harshvish_14" target="_blank" title="twitter">
                     <div className="icons">
                         <img src='icons/twitter.svg' />
                         TWITTER
